@@ -146,11 +146,6 @@ h2{
     font-size: 1.6rem;
 
 }
-
-
-
-
-
 }
 @media  (max-width: 1200px ) {
     .coteret{
@@ -266,3 +261,37 @@ h2{
 }
 
 }
+
+@media  (max-width: 287px ) {
+    .coteret{
+        font-size: 1.35rem;
+        top: 30%;
+        left: 4%;
+}
+.TalAndI{
+    position: absolute;
+    height: 34%; width: 87%;
+    right: 8%;
+    bottom: 10%;
+}
+a{
+    font-size: 20px;
+}
+h2{
+    position: absolute;
+    font-size:  1.23rem;
+    left: 5%;
+    top: 40%
+}
+.t{
+    width: 98%;
+}
+
+.crgelCalim{
+    font-size: large;
+}
+
+}
+
+
+
