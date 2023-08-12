@@ -171,7 +171,7 @@ h2{
 
     position: absolute;
     top: 60%;
-    left: 60%;
+    left: 58%;
     font-size: 1.6rem;
 
 }
@@ -228,6 +228,37 @@ h2{
     position: absolute;
     font-size: 1.3rem;
     left: 21%;
+    top: 40%
+}
+.t{
+    width: 98%;
+}
+
+}
+
+
+
+
+
+@media  (max-width:330px ) {
+    .coteret{
+        font-size: 1.5rem;
+        top: 30%;
+        left: 10%;
+}
+.TalAndI{
+    position: absolute;
+    height: 35%; width:  81%; 
+    right: 8%;
+    bottom: 6%;
+}
+a{
+    font-size: 20px;
+}
+h2{
+    position: absolute;
+    font-size: 1.3rem;
+    left: 17%;
     top: 40%
 }
 .t{
